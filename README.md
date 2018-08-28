@@ -5,7 +5,9 @@ This project aims to give the ability to create games with a level of abstractio
 
 ToDo:
 
-~Move the game map out of the Game class and into the Map class to allow for easier map management.
+~[X]Move the game map out of the Game class and into the Map class to allow for easier map management.
+
+~Modernize Game interation with Map
 
 ~Fix forward collision detection.
 
